@@ -31,3 +31,28 @@ Screenshot of Contact Section
 
 Screenshot of Repo Section
 ![Screenshot of Activity 2 Repo](/Screenshots/Activity_2_Lab_2_Repo.png)
+
+## Activity 3
+Replaced the current theme of green in the personal website and changed it to any
+other color of your choice, which in this case, was blue
+
+Screenshot of About Section
+![Screenshot of Activity 3 About](/Screenshots/Activity_3_Lab_2_About.png)
+
+Screenshot of Experience Section
+![Screenshot of Activity 3 Experience](/Screenshots/Activity_3_Lab_2_Experience.png)
+
+Screenshot of Projects Section
+![Screenshot of Activity 3 Projects](/Screenshots/Activity_3_Lab_2_Projects.png)
+
+Screenshot of Skills Section
+![Screenshot of Activity 3 Skills](/Screenshots/Activity_3_Lab_2_Skills.png)
+
+Screenshot of Education Section
+![Screenshot of Activity 3 Education](/Screenshots/Activity_3_Lab_2_Education.png)
+
+Screenshot of Contact Section
+![Screenshot of Activity 3 Contact](/Screenshots/Activity_3_Lab_2_Contact.png)
+
+Screenshot of Repo Section
+![Screenshot of Activity 3 Repo](/Screenshots/Activity_3_Lab_2_Repo.png)
